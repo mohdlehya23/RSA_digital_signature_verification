@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# Local assignment docs
+*.docx
+*.pdf
